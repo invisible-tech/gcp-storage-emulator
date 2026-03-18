@@ -15,5 +15,5 @@ metadata:
 spec:
   type: internal tool
   lifecycle: production
-  owner: core-tech
+  owner: infra-sre-devops-qa
   domain: core-tech
